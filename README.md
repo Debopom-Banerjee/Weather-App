@@ -4,4 +4,4 @@
 
 This **Weather-app** is made with **ReactJs, rapid Api and OpenWeather Api**.<br>It makes the current weather of any place visible along with a 7 day forecast of the same place. <br><br>
 
-[Website 🌐]()<br><br>
+[Website 🌐](https://weather-app-bydb.netlify.app/)<br><br>
